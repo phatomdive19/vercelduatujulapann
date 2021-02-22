@@ -1,0 +1,4 @@
+baseURL = "https://football-league66.vercel.app"
+languageCode = "en-us"
+title = "Fantasy Football League"
+theme = "tale-hugo-master"
